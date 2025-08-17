@@ -1,3 +1,5 @@
+// Creating a table with random numbers - using arrey and for loop.
+
 public class arrey3 {
        public static void main(String[] args)
     {
@@ -25,3 +27,4 @@ public class arrey3 {
    }
 
 }
+
